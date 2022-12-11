@@ -1,3 +1,7 @@
+- Дипломная работа https://gitlab.com/prospero_iv/netology_dp/-/tree/main  
+- 
+
+
 - 👋 Hi, I’m @iv-art074
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
