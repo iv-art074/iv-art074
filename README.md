@@ -1,6 +1,8 @@
+- 👋 Всем привет, я Игорь Артемьев
+- 🌱 Изучаю DevOps дисциплины с "Нетологией"
 - Дипломная работа https://gitlab.com/prospero_iv/netology_dp/-/tree/main  
 - ДЗ по ELK пакету https://github.com/iv-art074/devops-netology/tree/10-4/10-4  
-
+- 
 
 - 👋 Hi, I’m @iv-art074
 - 👀 I’m interested in ...
